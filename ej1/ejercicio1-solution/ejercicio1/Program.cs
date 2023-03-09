@@ -16,9 +16,7 @@ namespace ejercicio1
             string name = Console.ReadLine();
             //Solicitar la edad
             Console.WriteLine("¿Cual es tu edad?");
-            string age = Console.ReadLine();
-            //Convertir la edad
-            age.Cast<int>();
+            int age = Convert.ToInt32(Console.ReadLine());
             //Solicitar la ciudad
             Console.WriteLine("Introduce una ciudad: ");
             var city = Console.ReadLine();

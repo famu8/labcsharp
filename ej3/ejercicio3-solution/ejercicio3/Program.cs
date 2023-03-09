@@ -4,7 +4,7 @@ using System.Diagnostics;
 3 - Pedir el nombre de la semana al usuario y decirle si es fin de semana o no. En caso de error, indicarlo.
 */
 
-namespace ejercicio1
+namespace ejercicio3
 {
     internal class Program
     {
