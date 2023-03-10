@@ -32,14 +32,14 @@ namespace excp1
 
         public static void ValidarNumero(int numero)
         {
-            if(numero >= 0 )           
+            if(numero >= 0 & numero <= 100 )           
             {
                 Console.WriteLine("El numero es un entero positivo. ");
                 Console.WriteLine("************************");
             }
             else 
             {
-                throw new esPositivoException($"El numero {numero} es menor que 0");
+                throw new esPositivoException($"El numero {numero} es menor que 0 o mayor que 100");
             }
         }
 
@@ -56,7 +56,7 @@ namespace excp1
                     Console.WriteLine("Introduce un numero del 1 al 100:");
                     int num = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("************************");
-                    Console.WriteLine("Primero veamos si es positivo...");
+                    Console.WriteLine("Primero veamos si es positivo y esta entre [0,100]");
                     Console.WriteLine($"Este es el numero que has introducido: {num}");
                     ValidarNumero(num);
                     if (num == randomNumber)
@@ -84,7 +84,7 @@ namespace excp1
                 }
                 catch (esPositivoException e)
                 {
-                    Console.WriteLine("Porfavor introduce un numero mayor que 0 (positivo) para poder comenzar a jugar!!!!!");
+                    Console.WriteLine("Porfavor introduce un numero mayor que 0 (positivo) y menor que 100 para poder comenzar a jugar!!!!!");
                     Console.WriteLine("-----------------------------------");
                 }
                 catch (esMenorException e)
