@@ -85,7 +85,7 @@ namespace excp1
                 catch (esPositivoException e)
                 {
                     Console.WriteLine("Porfavor introduce un numero mayor que 0 (positivo) para poder comenzar a jugar!!!!!");
-                    Console.WriteLine("----------------------");
+                    Console.WriteLine("-----------------------------------");
                 }
                 catch (esMenorException e)
                 {
