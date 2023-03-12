@@ -6,13 +6,13 @@ namespace poo1 {
     {
         public class Book
         {
-            public string Title;
-            public bool IsRead;
+            public string Title { get; set; }
+            public bool IsRead { get; set; }
 
             public Book(string title, bool isread)
             {
-                Title = title;
-                IsRead = isread;
+                this.Title = title;
+                this.IsRead = isread;
             }
         }
 
@@ -43,8 +43,8 @@ namespace poo1 {
             };
             Console.WriteLine(IsReadBook(books, "harry"));//false
             Console.WriteLine(IsReadBook(books, "ee"));//false
-            Console.WriteLine(IsReadBook(books, "zz"));//true
             Console.WriteLine(IsReadBook(books, "aa"));//false
+            Console.WriteLine(IsReadBook(books, "zz"));//true
 
 
         }
