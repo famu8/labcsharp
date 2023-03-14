@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\obj\Debug\net6.0\poo-linq.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\obj\Debug\net6.0\poo-linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\obj\Debug\net6.0\poo-linq.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\obj\Debug\net6.0\poo-linq.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\obj\Debug\net6.0\poo-linq.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\bin\Debug\net6.0\poo-linq.exe
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\bin\Debug\net6.0\poo-linq.deps.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\bin\Debug\net6.0\poo-linq.runtimeconfig.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\bin\Debug\net6.0\poo-linq.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\bin\Debug\net6.0\poo-linq.pdb
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\obj\Debug\net6.0\poo-linq.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\obj\Debug\net6.0\refint\poo-linq.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\obj\Debug\net6.0\poo-linq.pdb
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\obj\Debug\net6.0\poo-linq.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\poo\poo-linq\poo-linq-solution\poo-linq\obj\Debug\net6.0\ref\poo-linq.dll

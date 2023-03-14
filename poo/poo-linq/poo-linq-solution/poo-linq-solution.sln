@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poo-linq", "poo-linq\poo-linq.csproj", "{15399A59-5BEE-49AA-B290-A7B94146A0CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15399A59-5BEE-49AA-B290-A7B94146A0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15399A59-5BEE-49AA-B290-A7B94146A0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15399A59-5BEE-49AA-B290-A7B94146A0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15399A59-5BEE-49AA-B290-A7B94146A0CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27612F76-B1CC-4BBB-85B3-C98F16739725}
+	EndGlobalSection
+EndGlobal
