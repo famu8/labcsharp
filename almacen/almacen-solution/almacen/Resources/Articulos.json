@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Camiseta militar",
+    "Descripcion": "Verde y marron",
+    "Cantidad": 100
+  },
+  {
+    "Id": 2,
+    "Nombre": "Camiseta seleccion argetina",
+    "Descripcion": "azul y blanca",
+    "Cantidad": 20
+  },
+  {
+    "Id": 3,
+    "Nombre": "string",
+    "Descripcion": "string",
+    "Cantidad": 500
+  }
+]

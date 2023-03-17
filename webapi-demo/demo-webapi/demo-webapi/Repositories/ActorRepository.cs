@@ -11,6 +11,32 @@ namespace demo_webapi.Repositories
     public class ActorRepository : IActorRepository
     {
         const string JSON_PATH = @"C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\webapi-demo\demo-webapi\demo-webapi\Resources\Actores.json";
+        private string GetActorsFromFile()
+        {
+            var json = File.ReadAllText(JSON_PATH);
+            return json;
+        }
+        private void UpdateActores(List<Actor> actores)
+        {
+            var actoresJson = JsonConvert.SerializeObject(actores, Formatting.Indented);
+            File.WriteAllText(JSON_PATH, actoresJson);
+        }
+
+        
+        public List<Actor> GetActors()
+        {
+            try
+            {
+                var actoresFromFile = GetActorsFromFile();
+                List < Actor > actores = JsonConvert.DeserializeObject<List<Actor>>(actoresFromFile);
+                return actores;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+
         public void AddActor(Actor actor)
         {
             var actores = GetActors();
@@ -45,21 +71,6 @@ namespace demo_webapi.Repositories
             }
             return actor;
         }
-
-        public List<Actor> GetActors()
-        {
-            try
-            {
-                var actoresFromFile = GetActorsFromFile();
-                List < Actor > actores = JsonConvert.DeserializeObject<List<Actor>>(actoresFromFile);
-                return actores;
-            }
-            catch (Exception)
-            {
-                throw;
-            }
-        }
-
         public void UpdateActor(Actor actor)
         {
             var actores = GetActors();
@@ -73,17 +84,5 @@ namespace demo_webapi.Repositories
             actorParaActualizar.Peliculas = actor.Peliculas;
             UpdateActores(actores);
         }
-
-        private string GetActorsFromFile()
-        {
-            var json = File.ReadAllText(JSON_PATH);
-            return json;
-        }
-        private void UpdateActores(List<Actor> actores)
-        {
-            var actoresJson = JsonConvert.SerializeObject(actores, Formatting.Indented);
-            File.WriteAllText(JSON_PATH, actoresJson);
-        }
-
 }
 }
