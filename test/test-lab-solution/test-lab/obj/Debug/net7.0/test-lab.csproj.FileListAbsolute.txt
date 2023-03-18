@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\obj\Debug\net7.0\test-lab.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\obj\Debug\net7.0\test-lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\obj\Debug\net7.0\test-lab.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\obj\Debug\net7.0\test-lab.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\obj\Debug\net7.0\test-lab.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\bin\Debug\net7.0\test-lab.exe
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\bin\Debug\net7.0\test-lab.deps.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\bin\Debug\net7.0\test-lab.runtimeconfig.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\bin\Debug\net7.0\test-lab.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\bin\Debug\net7.0\test-lab.pdb
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\obj\Debug\net7.0\test-lab.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\obj\Debug\net7.0\refint\test-lab.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\obj\Debug\net7.0\test-lab.pdb
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\obj\Debug\net7.0\test-lab.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD ALICANTE\Escritorio\BIMAXPRO\PUNTO DE ENTRADA - BIMAXPRO\csharp\labc#\test\test-lab-solution\test-lab\obj\Debug\net7.0\ref\test-lab.dll

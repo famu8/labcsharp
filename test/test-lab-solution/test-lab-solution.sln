@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-lab", "test-lab\test-lab.csproj", "{B6922F3A-715B-4149-86F4-F1C0CAA4CA57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorreoElectronico-test", "CorreoElectronico\CorreoElectronico-test.csproj", "{0E0D011D-8EBE-4569-B297-94C480B0C27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6922F3A-715B-4149-86F4-F1C0CAA4CA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6922F3A-715B-4149-86F4-F1C0CAA4CA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6922F3A-715B-4149-86F4-F1C0CAA4CA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6922F3A-715B-4149-86F4-F1C0CAA4CA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0D011D-8EBE-4569-B297-94C480B0C27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0D011D-8EBE-4569-B297-94C480B0C27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0D011D-8EBE-4569-B297-94C480B0C27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0D011D-8EBE-4569-B297-94C480B0C27F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4948AAA-30BC-4BDA-B642-FFDD78CC56E2}
+	EndGlobalSection
+EndGlobal
